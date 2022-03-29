@@ -1,0 +1,319 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Iñigo",
+      "surnames": "González",
+      "title": "Data detective",
+      "description": "I was the guy who hated databases.\n\nWhen I fist saw databases, they were boring: payroll, accounts payable, accounts receivable.\n\nNot anymore.\n\nData now helps improve people lives.\n\nMake new bussiness.\n\nDiscover stuff.",
+      "avatar": {
+        "link": "https://i.stack.imgur.com/T119o.png"
+      },
+      "location": {
+        "notes": "Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://inigogonzalez.com"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/@exocert"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/igponce"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "How to measure anything",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Douglas W.",
+            "surnames": "Hubbard",
+            "title": "Author"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BT Spain - (now Evolutio)"
+        },
+        "roles": [
+          {
+            "name": "Data & Analytics senior consultant",
+            "startDate": "2019-06-01",
+            "competences": [
+              {
+                "name": "google-cloud-platform",
+                "type": "technology"
+              },
+              {
+                "name": "apache-beam",
+                "type": "technology"
+              },
+              {
+                "name": "airflow",
+                "type": "technology"
+              },
+              {
+                "name": "oracle-cloud-infrastructure",
+                "type": "technology"
+              },
+              {
+                "name": "apache-spark",
+                "type": "technology"
+              },
+              {
+                "name": "automl",
+                "type": "technology"
+              },
+              {
+                "name": "splunk",
+                "type": "technology"
+              },
+              {
+                "name": "data-science",
+                "type": "technology"
+              },
+              {
+                "name": "python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tinamica"
+        },
+        "roles": [
+          {
+            "name": "Big Data Architect",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-05-31",
+            "competences": [
+              {
+                "name": "apache-spark",
+                "type": "technology"
+              },
+              {
+                "name": "apache-kafka",
+                "type": "technology"
+              },
+              {
+                "name": "azure",
+                "type": "technology"
+              },
+              {
+                "name": "google-cloud-platform",
+                "type": "technology"
+              },
+              {
+                "name": "oracle-cloud-infrastructure",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Synergic Partners (bought by Telefonica as part of Telefonica Data Unit)",
+          "URL": "https://www.telefonica.com/en/communication-room/luca-telefonica-data-unit-positioned-as-a-leader-among-specialized-insights-service-providers/",
+          "image": {
+            "alt": "Synergic Partners",
+            "link": "https://crunchbase-production-res.cloudinary.com/image/upload/h_90/v1428128433/klspyi9vsrcb7cvihqh6.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Telco Delivery manager",
+            "challenges": [
+              {
+                "description": "Service delivery and commercial account manager for Telefonica group."
+              }
+            ],
+            "startDate": "2018-02-01",
+            "finishDate": "2018-05-31",
+            "competences": [
+              {
+                "name": "salesforce",
+                "type": "technology"
+              },
+              {
+                "name": "apache-spark",
+                "type": "technology"
+              },
+              {
+                "name": "amazon-web-services",
+                "type": "technology"
+              },
+              {
+                "name": "data-science",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mobile One2One (MO2O)",
+          "URL": "http://www.mo2o.com",
+          "image": {
+            "alt": "Mobile One2One (MO2O)",
+            "link": "https://crunchbase-production-res.cloudinary.com/image/upload/h_90/v1397194671/b3e695ccef5d1b165f657c88efbe81fb.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Data & Machine Learning Product Owner",
+            "challenges": [
+              {
+                "description": "Making sure projects have a data strategy, there's a path to move from transactional to BI and Anayltical data. Customers: McDonald's spain, Telefonica group, Carrefour."
+              }
+            ],
+            "startDate": "2016-09-01",
+            "finishDate": "2018-02-28",
+            "competences": [
+              {
+                "name": "tableau-api",
+                "type": "technology"
+              },
+              {
+                "name": "r",
+                "type": "technology"
+              },
+              {
+                "name": "python-3.x",
+                "type": "technology"
+              },
+              {
+                "name": "tensorflow",
+                "type": "technology"
+              },
+              {
+                "name": "data-science",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "google-cloud-platform",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 10% at Stack Overflow answers",
+          "description": "This user is part of the top 10% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "python",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "other",
+          "URL": "https://twitter.com/@exocert"
+        },
+        {
+          "type": "other",
+          "URL": "https://github.com/igponce"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "tableau-api",
+          "type": "technology"
+        },
+        {
+          "name": "r",
+          "type": "technology"
+        },
+        {
+          "name": "python",
+          "type": "technology"
+        },
+        {
+          "name": "pandas",
+          "type": "technology"
+        },
+        {
+          "name": "jupyter",
+          "type": "technology"
+        },
+        {
+          "name": "tensorflow",
+          "type": "technology"
+        },
+        {
+          "name": "keras",
+          "type": "technology"
+        },
+        {
+          "name": "google-analytics",
+          "type": "technology"
+        },
+        {
+          "name": "apache-beam",
+          "type": "technology"
+        },
+        {
+          "name": "google-cloud-platform",
+          "type": "technology"
+        },
+        {
+          "name": "go",
+          "type": "technology"
+        },
+        {
+          "name": "google-bigquery",
+          "type": "technology"
+        },
+        {
+          "name": "oracle-cloud-infrastructure",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
